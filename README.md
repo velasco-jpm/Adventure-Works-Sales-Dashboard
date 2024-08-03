@@ -13,3 +13,5 @@ I utilize Power BI Destop to:
   
 Key Metrices: Revenue, Unit Sold, Avg. Selling Price, Profit, Profit Margin
 Breakdown into: Fiscal Year, Category & Business Type, and Country
+
+![Adventure Works Sales Dashboard](https://github.com/user-attachments/assets/9d6605d3-0432-464e-b4b0-db677891c280)
